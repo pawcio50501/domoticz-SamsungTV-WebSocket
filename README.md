@@ -5,5 +5,6 @@ Purpose of this plugin is to create a standalone implementation which do not dep
 
 # main features
 basic control (volume up/down, power off, arrow keys, ...)
+
 wol (wakeup on lan) support.
 
